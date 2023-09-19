@@ -2,7 +2,7 @@
 
 An index of recommendation algorithms that are based on Multi-task learning.
 
-Our survey . A preprint is available on arxiv: 
+Our survey "Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey". A preprint is available on arxiv: https://arxiv.org/pdf/2305.13843.pdf
 
 <!-- Please cite our survey paper if this index is helpful. -->
 
